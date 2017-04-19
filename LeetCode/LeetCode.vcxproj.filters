@@ -30,5 +30,32 @@
     <ClCompile Include="Q5.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Q6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Q9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Q11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Q12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Q13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Q14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
